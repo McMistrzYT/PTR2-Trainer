@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PaRappa_the_Rapper_2_Trainer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AdvancedMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Region" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pal</Value>
+    </Setting>
+    <Setting Name="PCSX2Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pcsx2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
